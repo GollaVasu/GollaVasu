@@ -28,11 +28,11 @@ I specialize in **Data Analysis**, **Visualization**, and deriving actionable in
 - Reduced energy usage by **15%**, saving **$1.2M annually** while maintaining production quality.
 - Built **interactive dashboards** in Power BI to track energy metrics.  
 
-### 🛠️ [Machine Downtime Optimization for Vehicle Fuel Pump Manufacturing](#)  
-**Duration**: Oct 2024 - Nov 2024  
-**Technologies**: Python, Power BI  
-- Reduced machine downtime by **10%**, saving **$1M** in costs.
-- Delivered actionable insights to improve efficiency and reduce maintenance expenses.
+### 🛠️ [Demand and production optimization ](#)  
+**Duration**: Jan 2025 - Feb 2025  
+**Technologies**: Python,SQL,  Power BI  
+- Reduced Production lead time by 15%.
+- Cut inventory holding cost by 10%.
 
 ---
 
