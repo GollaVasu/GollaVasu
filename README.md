@@ -13,7 +13,7 @@ I specialize in **Data Analysis**, **Visualization**, and deriving actionable in
   - **Techniques**: EDA, ETL,Data collection, Data Cleaning, Preprocessing, Aws cloud data analytics
 
 - 📈 **Experience**:  
-  - **1-year Internship** as a Data Analyst  
+  - **1-year Internship** as a Data Analyst Trainee at 360Digitmg 
   - Hands-on experience in creating dashboards, optimizing processes, and reducing costs for industrial projects.
 
 - 🧩 **Hobbies**:  
