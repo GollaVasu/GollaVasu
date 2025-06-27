@@ -10,7 +10,7 @@ I specialize in **Data Analysis**, **Visualization**, and deriving actionable in
 - 🛠️ **Skills**:  
   - **Programming**: Python (Pandas, Seaborn, Matplotlib), SQL (MySQL)  
   - **Tools**: Power BI, Google Looker Studio, MS Excel  
-  - **Techniques**: EDA, ETL, Data Cleaning, Preprocessing  
+  - **Techniques**: EDA, ETL,Data collection, Data Cleaning, Preprocessing, Aws cloud data analytics
 
 - 📈 **Experience**:  
   - **1-year Internship** as a Data Analyst  
@@ -22,17 +22,30 @@ I specialize in **Data Analysis**, **Visualization**, and deriving actionable in
 ---
 
 ## 🚀 Featured Projects
+
 ### 🔋 [Energy Usage Optimization for a Glass Manufacturing Plant](#)
 **Duration**: Nov 2024 - Dec 2024  
-**Technologies**: Python, SQL, Power BI  
-- Reduced energy usage by **15%**, saving **$1.2M annually** while maintaining production quality.
-- Built **interactive dashboards** in Power BI to track energy metrics.  
+**Technologies**: Python, SQL, Power BI , googlelookerstudio
+- Reduced energy usage by 15%, resulting in $1.2M in annual savings without compromising production quality.
+-  Conducted in-depth analysis to identify high-consumption areas and implemented optimization strategies.
+-  Developed and maintained interactive Power BI dashboards to monitor energy metrics and support data-driven decisions.
 
 ### 🛠️ [Demand and production optimization ](#)  
 **Duration**: Jan 2025 - Feb 2025  
-**Technologies**: Python,SQL,  Power BI  
-- Reduced Production lead time by 15%.
-- Cut inventory holding cost by 10%.
+**Technologies**: Python,SQL,  Power BI , googlelookerstudio
+-	Analyzed historical order and inventory data to improve demand prediction and production planning..
+-	Optimized production scheduling to reduce lead time by 15% and enhance operational efficiency..
+-	Developed a Power BI dashboard for real-time tracking of inventory levels, order trends, and production status..
+-	Implemented inventory management strategies, minimizing stockouts and reducing holding costs by 10%.
+
+
+### 🔋 [Analysis of Bonus Allocation ](#)
+**Duration**: Mar 2025 - Apr 2025  
+**Technologies**: Python, SQL, Power BI , Excel 
+- 	Analyzed historical bonus allocation data to identify inefficiencies and align payouts with KPIs and business goals.
+-	Developed actionable insights that reduced variance in bonus distribution and supported a 10% profit margin increase.
+-	Designed interactive Power BI dashboards to monitor allocation trends and drive real-time decision-making.
+-	Contributed to a projected 20% revenue growth in the first year by optimizing the bonus allocation process for enhanced customer satisfaction.
 
 ---
 
